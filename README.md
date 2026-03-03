@@ -11,6 +11,7 @@ This project models the **double pendulum**, a classic example of a chaotic dyna
 ### Contents
 
 - **`DoublePendulum.ipynb`** — Complete Jupyter Notebook containing all code, visualizations, and analysis.
+- **`FINAL_PROJECT_REQUIREMENTS.md`** — Checklist of what the project covers and what you should be prepared to discuss.
 
 ### Topics Covered
 
